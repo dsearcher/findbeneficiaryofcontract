@@ -37,4 +37,4 @@ python script.py
 This script is provided under the MIT License.
 
 #### Note: Be sure to take a backup of your addresses.csv file before running the script as it will be updated.
-#### I didn't add any checkers, so If you try to run this script multiple times with the same .csv fine it will keep adding addresses with each iteration into this file.
+#### I didn't add any checkers, so If you try to run this script multiple times with the same .csv file it will keep adding addresses with each iteration into this file.
